@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="graph_lib" />
+		<Option title="ProjetTDG_Partie_Boutton&amp;Menu" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -38,6 +38,7 @@
 			<Add library="jpgalleg" />
 			<Add library="alleg44.dll" />
 		</Linker>
+		<Unit filename="Menu.h" />
 		<Unit filename="graph.cpp" />
 		<Unit filename="graph.h" />
 		<Unit filename="grman/coords.cpp" />
@@ -48,6 +49,7 @@
 		<Unit filename="grman/widget.cpp" />
 		<Unit filename="grman/widget.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
