@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1522765653 source:c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\coords.cpp
+	"coords.h"
+
+1522765653 c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\coords.h
+	<cmath>
+
+1522765653 source:c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522765653 c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1522765653 c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\grman_couleurs.h
+
+1522765653 c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522948149 source:c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\grman\widget.cpp
+	"widget.h"
+
+1522765653 source:c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
+1523023844 c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523020259 source:c:\users\axel\downloads\graph_lib_v1\graph_lib_exemple_graph\graph.cpp
+	"graph.h"
+
+1522765653 source:c:\users\axel\desktop\projettdg\projettdg\grman\coords.cpp
+	"coords.h"
+
+1523105085 c:\users\axel\desktop\projettdg\projettdg\grman\coords.h
+	<cmath>
+
+1523043637 source:c:\users\axel\desktop\projettdg\projettdg\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1523043637 c:\users\axel\desktop\projettdg\projettdg\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1523043637 c:\users\axel\desktop\projettdg\projettdg\grman\grman_couleurs.h
+
+1523043637 c:\users\axel\desktop\projettdg\projettdg\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1523043637 source:c:\users\axel\desktop\projettdg\projettdg\grman\widget.cpp
+	"widget.h"
+
+1523109333 source:c:\users\axel\desktop\projettdg\projettdg\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"Menu.h"
+	"graph.h"
+	<time.h>
+	<math.h>
+
+1523102963 c:\users\axel\desktop\projettdg\projettdg\graph.h
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1523043637 source:c:\users\axel\desktop\projettdg\projettdg\graph.cpp
+	"graph.h"
+
+1523110113 c:\users\axel\desktop\projettdg\projettdg\menu.h
+	"graph.h"
+
+1523109333 source:c:\users\axel\desktop\projettdg\projettdg\menu.cpp
+	"grman/grman.h"
+	<iostream>
+	"Menu.h"
+	<allegro.h>
+	<time.h>
+	<math.h>
+	"graph.h"
+
